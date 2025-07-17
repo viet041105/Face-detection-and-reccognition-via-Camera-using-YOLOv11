@@ -1,0 +1,5 @@
+train: "D:/AI/CUOIKIIIII/Data/images/train"
+val: "D:/AI/CUOIKIIIII/Data/images/val"
+
+nc: 1
+names: ['face']
